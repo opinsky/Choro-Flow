@@ -1,5 +1,36 @@
 const musicians = [
   {
+    name: 'Pixinguinha',
+    country: 'Brazil',
+    style: 'Choro'
+  },
+  {
+    name: 'Canhoto da Paraiba',
+    country: 'Brazil',
+    style: 'Choro'
+  },
+  {
+    name: 'Esmeraldino Salles',
+    country: 'Brazil',
+    style: 'Choro'
+  },
+  {
+    name: 'Jacob do Bandolim',
+    country: 'Brazil',
+    style: 'Choro'
+  },
+  {
+    name: 'KXimbinho',
+    country: 'Brazil',
+    style: 'Choro'
+  },
+  {
+    name: 'Haroldo Barbosa',
+    country: 'Brazil',
+    style: 'Samba'
+  },
+
+  {
     name: 'Johann Sebastian Bach',
     alias: 'J.S. Bach',
     birthday: '1685-03-31',
