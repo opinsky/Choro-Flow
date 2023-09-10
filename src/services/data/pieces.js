@@ -40,6 +40,12 @@ const pieces = [
     musician: musiciansMap['Haroldo Barbosa'],
     theme: 'moonized'
   },
+    {
+    name: 'Os cinco Companheiros',
+    suite: 'Choro',
+    musician: musiciansMap['Pixinguinha'],
+    theme: 'moonized'
+  },
 ]
 
 // Generate piece fullname & ID
