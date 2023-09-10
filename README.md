@@ -1,3 +1,7 @@
+# Choro Flow
+
+An experiment to adapt the fantastic Piano Flow to Brazilian music.
+
 # Piano Flow
 A music game follows the piano flows. Its rhythm mode inspired by Touch Pianist, thanks to Batuhan Bozkurt. The main purpose I made it was to achieve a dream of my youth and to help me practice the fundamentals of MUG.
 
