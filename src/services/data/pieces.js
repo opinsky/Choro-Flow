@@ -40,10 +40,16 @@ const pieces = [
     musician: musiciansMap['Haroldo Barbosa'],
     theme: 'moonized'
   },
-    {
+  {
     name: 'Os cinco Companheiros',
     suite: 'Choro',
     musician: musiciansMap['Pixinguinha'],
+    theme: 'moonized'
+  },
+  {
+    name: 'Atlantico',
+    suite: 'Choro',
+    musician: musiciansMap['Jacob do Bandolim'],
     theme: 'moonized'
   },
 ]
