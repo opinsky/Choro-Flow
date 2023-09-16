@@ -25,6 +25,11 @@ const musicians = [
     style: 'Choro'
   },
   {
+    name: 'Joaquim Callado',
+    country: 'Brazil',
+    style: 'Choro'
+  },
+  {
     name: 'Haroldo Barbosa',
     country: 'Brazil',
     style: 'Samba'
