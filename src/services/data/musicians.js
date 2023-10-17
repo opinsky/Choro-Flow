@@ -1,5 +1,10 @@
 const musicians = [
   {
+    name: 'Paloma Pitaya',
+    country: 'Brazil',
+    style: 'Choro'
+  },
+  {
     name: 'Pixinguinha',
     country: 'Brazil',
     style: 'Choro'
