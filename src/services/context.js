@@ -34,7 +34,7 @@ class Context {
   }
 
   setTitle (title) {
-    document.title = `Piano Flow · ${title}`
+    document.title = `Choro Flow · ${title}`
   }
 }
 
