@@ -5,6 +5,12 @@ const musiciansMap = _.keyBy(musicians, 'name')
 
 const pieces = [
   {
+    name: 'Chorinho 1',
+    suite: 'Choro',
+    musician: musiciansMap['Paloma Pitaya'],
+    theme: 'moonized'
+  },
+  {
     name: 'Desprezado',
     suite: 'Choro',
     musician: musiciansMap['Pixinguinha'],
@@ -20,12 +26,6 @@ const pieces = [
     name: 'O Rasga',
     suite: 'Choro',
     musician: musiciansMap['Pixinguinha'],
-    theme: 'moonized'
-  },
-  {
-    name: 'Chorinho 1',
-    suite: 'Choro',
-    musician: musiciansMap['Paloma Pitaya'],
     theme: 'moonized'
   },
   {
